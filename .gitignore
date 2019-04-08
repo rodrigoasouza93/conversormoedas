@@ -8,6 +8,9 @@
 # testing
 /coverage
 
+#API KEY
+currency-api-key.js
+
 # production
 /build
 
